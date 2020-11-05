@@ -5,6 +5,7 @@ Hi! This is a template I would use for jams! It should get you rolling really re
 ## Getting Started
 
 - First make sure you have Haxe (at least 4.X.X) and Flixel installed and working
+- Use the latest zerolib-flixel - `haxelib git zerolib-flixel https://github.com/01010111/zerolib-flixel`
 - From this github repo, click "Use this template"
 - Give your repo a wonderful name
 - Clone your repo to your computer
